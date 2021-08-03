@@ -70,7 +70,7 @@
           "options": {
             "browserTarget": "mdmf-shell:build",
             "extraWebpackConfig": "projects/mdmf-shell/webpack.config.js",
-            "port": 4200
+            "port": 4204
           },
           "configurations": {
             "production": {

@@ -7,7 +7,7 @@ import { AppComponent } from "./app.component";
 import { NgxsModule } from "@ngxs/store";
 import { NgxsReduxDevtoolsPluginModule } from "@ngxs/devtools-plugin";
 import { NgxsLoggerPluginModule } from "@ngxs/logger-plugin";
-import { UserState } from "../../../mdmf-shared/src/lib/app-state/state/user.state";
+import { UserState } from '@xpo-lm/ng-mfshared';
 
 @NgModule({
   declarations: [AppComponent],

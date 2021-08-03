@@ -23,7 +23,7 @@ module.exports = {
         "@angular/common": { singleton: true, eager: true },
         "@angular/router": { singleton: true, eager: true },
         "@ngxs/store": { singleton: true, eager: true },
-        "mdmf-shared": { singleton: true, eager: true },
+        "@xpo-lm/ng-mfshared": { singleton: true, eager: true },
       },
     }),
   ],
